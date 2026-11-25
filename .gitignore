@@ -1,0 +1,15 @@
+# Ambiente virtual (cada pessoa cria o seu)
+.venv/
+venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Segredos e banco de dados local (NUNCA vão para o GitHub)
+.env
+*.db
+
+# Editores
+.vscode/
+.idea/
